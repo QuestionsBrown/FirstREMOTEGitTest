@@ -9,7 +9,7 @@
 import UIKit
 import SceneKit
 import ARKit
-import Foundation
+import ModelIO
 
 class ViewController: UIViewController, ARSCNViewDelegate {
 
